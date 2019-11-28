@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
     :text => "Hyphenate Inc. 2017"
   }
   s.authors = { "Mashuai" => "mashuai_hy@163.com" }
-  s.source = { :http => "" }
+  s.source = { :http => "https://raw.githubusercontent.com/hecom-rn/HySDKDeploy/master/iOS_Pods_IMFullSDK_V3.6.2.zip" }
   s.platform = :ios, "8.0"
   s.requires_arc = true
   s.preserve_paths = "iOS_Pods_IMFullSDK_V3.6.2/Hyphenate.framework"
